@@ -14,14 +14,7 @@ The Iris flower data set comprises of 50 samples of three Iris flower species, t
 
 The data set comprises of five following attributes  
 
-1. sepal length in cm 
-2. sepal width in cm 
-3. petal length in cm 
-4. petal width in cm 
-5. class: 
--- Iris Setosa 
--- Iris Versicolour 
--- Iris Virginica
+![Iris dataset attributes](Images/iris-dataset-attributes.JPG "Iris dataset attributes")
 
 
 
