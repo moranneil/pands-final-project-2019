@@ -14,5 +14,6 @@ The Iris flower data set was put forward by the British biologist and statistici
 
 ## References
 
-Iris flower data set: https://en.wikipedia.org/wiki/Iris_flower_data_set.
-Multivariate statistics: https://en.wikipedia.org/wiki/Multivariate_statistics.
+Iris flower data set: https://en.wikipedia.org/wiki/Iris_flower_data_set.<br />
+Multivariate statistics: https://en.wikipedia.org/wiki/Multivariate_statistics.<br />
+Multivariate analysis: https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/multivariate-analysis/<br />
