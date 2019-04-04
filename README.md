@@ -4,7 +4,7 @@
 
 ## Background
 
-The Iris flower data set was put forward by the British biologist and statistician Ronald Fisher in 1936. This is an example of a multivarience data set, multivarience data sets reduce the probably of type 1 errors in statisicaly analysis. Multivariance data sets analysis are almost always performed in software.
+The Iris flower data set was put forward by the British biologist and statistician Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems, this is an example of linear discrimminate analysis. The Iris data set is an example of a multivarience data set, multivarience data sets reduce the probably of type 1 errors in statistical analysis. Multivariance data sets analysis are almost always performed in software.
 
 ![Ronald Fisher](Images/Ronald-Fisher.JPG "Ronald Fisher")
 
