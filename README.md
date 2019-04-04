@@ -12,6 +12,8 @@ The Iris flower data set comprises of 50 samples of three Iris flower species, t
 
 ![Iris Flower Species](Images/iris-flowers.jpe "Iris Flower Species")
 
+The data set was 
+
 
 
 ## References
@@ -20,3 +22,4 @@ Iris flower data set: https://en.wikipedia.org/wiki/Iris_flower_data_set.<br />
 Sir Ronald Fisher: https://en.wikipedia.org/wiki/Ronald_Fisher.<br />
 Multivariate statistics: https://en.wikipedia.org/wiki/Multivariate_statistics.<br />
 Multivariate analysis: https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/multivariate-analysis./<br />
+Iris Data Set: https://archive.ics.uci.edu/ml/datasets/iris/<br />
