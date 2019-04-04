@@ -16,7 +16,10 @@ The dataset comprises of five following attributes, the first four attributes ar
 
 ![Iris dataset attributes](Images/iris-dataset-attributes.JPG "Iris dataset attributes")
 
+## Python Librarys Used
 
+The following python librarys are used to analyse the Iris Dataset
+Numpy
 
 
 
