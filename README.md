@@ -8,7 +8,9 @@ The Iris flower data set was put forward by the British biologist and statistici
 
 ![Ronald Fisher](Images/Ronald-Fisher.JPG "Ronald Fisher")
 
+The Iris flower data set comprises of 50 samples of three Iris flower species, the Iris Sentosa, Versicolor and Virginica.
 
+![Iris Flower Species](Images/iris-flowers.jpe "Iris Flower Species")
 
 
 
