@@ -28,3 +28,5 @@ Multivariate statistics: https://en.wikipedia.org/wiki/Multivariate_statistics.<
 Multivariate analysis: https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/multivariate-analysis./<br />
 Iris Data Set: https://archive.ics.uci.edu/ml/datasets/iris/<br />
 Iris Data Set CSV: https://datahub.io/machine-learning/iris#resource-iris.<br />
+Machine Learning: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/.<br />
+
