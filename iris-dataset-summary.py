@@ -1,6 +1,6 @@
 # Neil Moran 04/04/2019
 # Python script to summarise the Iris Dataset
-# Calculates the min, max & mean value of each of the four numerical columns of the Iris Dataset using Numpy
+# Calculates the min, max & mean value of each of the four numerical columns of the Iris Dataset using Numpy.
 
 import numpy
 
