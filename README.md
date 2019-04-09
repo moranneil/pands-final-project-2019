@@ -8,7 +8,7 @@ The Iris flower dataset was put forward by the British biologist and statisticia
 
 ![Ronald Fisher](Images/Ronald-Fisher.JPG "Ronald Fisher")
 
-The Iris flower dataset comprises of 50 samples of three Iris flower species, the Iris Sentosa, Versicolor and Virginica, giving a total of 150 data samples in the dataset.
+The Iris flower dataset comprises of 50 samples of three Iris flower species, Iris Sentosa, Versicolor and Virginica, giving a total of 150 data samples in the dataset.
 
 ![Iris Flower Species](Images/iris-flowers.jpe "Iris Flower Species")
 
@@ -16,10 +16,13 @@ The dataset comprises of five following attributes, the first four attributes ar
 
 ![Iris dataset attributes](Images/iris-dataset-attributes.JPG "Iris dataset attributes")
 
-## Python Librarys Used
+## Python Librarys Used 
 
 The following python librarys are used to analyse the Iris Dataset.<br />
 Numpy
+Pandas
+Matplotlib
+Seaborn
 
 
 
