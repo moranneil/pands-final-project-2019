@@ -20,8 +20,9 @@ The dataset comprises of five following attributes, the first four attributes ar
 
 The following python librarys are used to analyse the Iris Dataset.<br />
 #### NumPy <br />
- NumPy is a a library that provides support for large multidimensional arrays and matrices. It also has a large collection of high level mathemicial functions to operate on such arrays.
+ NumPy is a library that provides support for large multidimensional arrays and matrices. It also has a large collection of high level mathemicial functions to operate on such arrays. 
 #### Pandas <br />
+Pandas is a software programming library written for data analysis and manipulation for the Python programming language. It offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.
 #### Matplotlib <br />
 #### Seaborn <br />
 
@@ -36,5 +37,7 @@ Multivariate analysis: https://www.statisticshowto.datasciencecentral.com/probab
 Iris Data Set: https://archive.ics.uci.edu/ml/datasets/iris/<br />
 Iris Data Set CSV: https://datahub.io/machine-learning/iris#resource-iris.<br />
 Machine Learning: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/.<br />
-NumPy: https://en.wikipedia.org/wiki/NumPy.<br />
+NumPy: https://en.wikipedia.org/wiki/NumPy.<br />.
+Pandas: https://en.wikipedia.org/wiki/Pandas_(software). <br />.
+
 
