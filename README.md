@@ -24,7 +24,7 @@ NumPy is a library that provides support for large multidimensional arrays and m
 #### Matplotlib <br />
 Matplotlib is a plotting library for the Python programming language and the numerical library NumPy, it provides graphical representations of data arrays.
 #### Pandas <br />
-Pandas is a software programming library written for data analysis and manipulation for the Python programming language. It offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.
+Pandas is a software programming library written for data analysis and manipulation for the Python programming language. It offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license. Pandas is built on top of NumPy
 #### Seaborn <br />
 
 
