@@ -27,6 +27,19 @@ Matplotlib is a plotting library for the Python programming language and the num
 Pandas is a software programming library written for data analysis and manipulation for the Python programming language. It offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license. Pandas is built on top of NumPy
 #### Seaborn <br />
 
+## Tools Used
+
+The following tools were used to script, test and run the python programs.
+
+#### Anaconda
+This is the python programming software distriution that was running on my machine.
+
+#### Visual Studio Code <br />
+This program was used to write python programs for analysing the dataset
+
+#### iPython
+This is an interactive shell program used to run individual or multiple lines of python code. It was used for testing parts of a program that were been developed and showing outputs of the full program. It was also used to display graphs of programs that were just ran from data was stores in variables of that program.
+
 ## Analysing the Data
 
 _iris-dataset-summary.py_ was written to summarise the Iris Dataset, it uses NumPy to calculate the min, max, mean and standard devation from the Iris Dataset sample in the file _iris-dataset.csv_ . The program is run in iPython see output sample below.
