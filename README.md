@@ -32,7 +32,7 @@ Pandas is a software programming library written for data analysis and manipulat
 The following tools were used to script, test and run the python programs.
 
 #### Anaconda
-This is the python programming software distriution that was running on my machine.
+This is the python programming software distribution that was running on my machine.
 
 #### Visual Studio Code <br />
 This program was used to write python programs for analysing the dataset
