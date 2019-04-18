@@ -45,5 +45,6 @@ Iris Data Set CSV: https://datahub.io/machine-learning/iris#resource-iris.<br />
 Machine Learning: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/.<br />
 NumPy: https://en.wikipedia.org/wiki/NumPy.<br />.
 Pandas: https://en.wikipedia.org/wiki/Pandas_(software). <br />.
+Analysing the Iris Data set with Pandas: https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation
 
 
