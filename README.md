@@ -66,6 +66,14 @@ The resulting Histogram is generate from the code above. This complete python pr
 
 Click on the link [_analyse-iris-generate-histogram.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-histogram.py) to view the code.
 
+The following lines were entered in iPython to generate a Boxplot of the Iris Dataset. The program analyse-iris.py was ran to ensure that the dataset variables were set. See iPython image below.
+
+Iris Dataset Boxplot iPython codeIris Dataset Boxplot iPython code
+
+The Boxplot of the Iris Dataset is given below.
+
+
+
 ## References
 
 Iris flower data set: https://en.wikipedia.org/wiki/Iris_flower_data_set.<br />
