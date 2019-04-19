@@ -50,7 +50,15 @@ _analyse-iris.py_ is a program that uses Pandas to import the data from a CSV fi
 
 ![Pandas Program Statistics](Images/pandas-stats-iris.JPG "Pandas Program Statistic")
 
+## Data Visualisation
 
+The python program _analyse-iris.py_ variable values obtained in the previous section, can be used to generate plots. The following lines were entered in iPython.
+
+![Python code to generate histogram](Images/iris-histogram-code-iPython.JPG "Python code to generate histogram")
+
+The resulting Histogram is generate from the code above.
+
+![Iris Dataset Histogram](Images/iris-histogram.JPG "Iris Dataset Histogram")
 
 ## References
 
