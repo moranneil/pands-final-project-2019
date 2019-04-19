@@ -74,7 +74,7 @@ The Boxplot of the Iris Dataset is given below.
 
 ![Iris Dataset Boxplot](Images/iris-boxplot.JPG "Iris Dataset Boxplot]")
 
-
+The python program _analyse-iris-generate-boxplot.py_ can also be ran to populte the variables and generate the same resulting Boxplot. Click on the link [_analyse-iris-generate-boxplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-boxplot.py) to view the code.
 
 
 
