@@ -42,7 +42,7 @@ This is an interactive shell program used to run individual or multiple lines of
 
 ## Analysing the Data
 
-_iris-dataset-summary.py_ was written to summarise the Iris Dataset, it uses NumPy to calculate the min, max, mean and standard devation from the Iris Dataset sample in the file _iris-dataset.csv_ . The program is run in iPython see output sample below.
+_iris-dataset-summary.py_ was written to summarise the Iris Dataset, it uses NumPy to calculate the min, max, mean and standard devation from the Iris Dataset sample in the file _iris-dataset.csv_ . The program was run in iPython see output sample below.
 
 ![Iris Dataset summary](Images/iris-summary.JPG "Iris Dataset summary")
 
