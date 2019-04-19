@@ -46,7 +46,7 @@ _iris-dataset-summary.py_ was written to summarise the Iris Dataset, it uses Num
 
 ![Iris Dataset summary](Images/iris-summary.JPG "Iris Dataset summary")
 
-_analyse-iris.py_ is a program that uses Pandas to import the data from a CSV file _iris-dataset.csv_, it assigned headings to each of the five columns in the dataset and various outputs are obtained to give statistical information on the dataset. The example below runs the program from the iPython command line. Each of the command can also be run individually.
+_analyse-iris.py_ is a program that uses Pandas to import the data from a CSV file _iris-dataset.csv_, it assigns headings to each of the five columns in the dataset and various outputs are obtained to give statistical information on the dataset. The example below runs the entire program from the iPython command line. Each of the pandas commands can also be run individually once the file is imported using pandas.
 
 ![Pandas Program Statistics](Images/pandas-stats-iris.JPG "Pandas Program Statistic")
 
@@ -61,8 +61,8 @@ Multivariate analysis: https://www.statisticshowto.datasciencecentral.com/probab
 Iris Data Set: https://archive.ics.uci.edu/ml/datasets/iris/<br />
 Iris Data Set CSV: https://datahub.io/machine-learning/iris#resource-iris.<br />
 Machine Learning: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/.<br />
-NumPy: https://en.wikipedia.org/wiki/NumPy.<br />.
-Pandas: https://en.wikipedia.org/wiki/Pandas_(software). <br />.
-Analysing the Iris Data set with Pandas: https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation
-
+NumPy: https://en.wikipedia.org/wiki/NumPy.<br />
+Pandas: https://en.wikipedia.org/wiki/Pandas_(software). <br />
+Analysing the Iris Data set with Pandas: https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation <br />
+Histogram Plots: https://github.com/venky14/Machine-Learning-with-Iris-Dataset/blob/master/Machine%20Learning%20with%20Iris%20Dataset.ipynb <br />
 
