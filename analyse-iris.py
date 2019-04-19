@@ -5,7 +5,7 @@
 #Python librarys Numpy, Pandas and MatplotLib are imported
 import numpy as np
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 #Pandas command is used to read the information from iris-dataset.csv, headers are assigned to each of the five columns.
 irisdataset = pd.read_csv('iris-dataset.csv', delimiter=',', names=['Sepal Length', 'Sepal Width', 'Petal Length','Petal Width', 'Species'])
