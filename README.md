@@ -46,7 +46,7 @@ _iris-dataset-summary.py_ was written to summarise the Iris Dataset, it uses Num
 
 ![Iris Dataset summary](Images/iris-summary.JPG "Iris Dataset summary")
 
-_analyse-iris.py_ is a program that uses Pandas to import the data from a CSV file _iris-dataset.csv_, it assigned headings to each of the five columns in the dataset and various outputs are obtained to give statistical information on the dataset. The example below runs the program from the iPython command line. Each of the command can also be run individually.
+_analyse-iris.py_ is a program that uses Pandas to import the data from a CSV file _iris-dataset.csv_, it assigns headings to each of the five columns in the dataset and various outputs are obtained to give statistical information on the dataset. The example below runs the entire program from the iPython command line. Each of the pandas commands can also be run individually once the file is imported using pandas.
 
 ![Pandas Program Statistics](Images/pandas-stats-iris.JPG "Pandas Program Statistic")
 
