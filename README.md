@@ -68,9 +68,13 @@ Click on the link [_analyse-iris-generate-histogram.py_](https://github.com/mora
 
 The following lines were entered in iPython to generate a Boxplot of the Iris Dataset. The program analyse-iris.py was ran to ensure that the dataset variables were set. See iPython image below.
 
-Iris Dataset Boxplot iPython codeIris Dataset Boxplot iPython code
+![Python code to generate Boxplot](Images/iris-boxplot-code-iPython.JPG "Python code to generate Boxplot")
 
 The Boxplot of the Iris Dataset is given below.
+
+![Iris Dataset Boxplot](Images/iris-boxplot.JPG "Iris Dataset Boxplot]")
+
+
 
 
 
