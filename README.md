@@ -46,6 +46,8 @@ _iris-dataset-summary.py_ was written to summarise the Iris Dataset, it uses Num
 
 ![Iris Dataset summary](Images/iris-summary.JPG "Iris Dataset summary")
 
+Click on the link [_iris-dataset-summary.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/iris-dataset-summary.py) to view the code.
+
 _analyse-iris.py_ is a program that uses Pandas to import the data from a CSV file _iris-dataset.csv_, it assigns headings to each of the five columns in the dataset and various outputs are obtained to give statistical information on the dataset. The example below runs the entire program from the iPython command line. Each of the pandas commands can also be run individually once the file is imported using pandas.
 
 ![Pandas Program Statistics](Images/pandas-stats-iris.JPG "Pandas Program Statistic")
@@ -56,7 +58,7 @@ The python program _analyse-iris.py_ variable values obtained in the previous se
 
 ![Python code to generate histogram](Images/iris-histogram-code-iPython.JPG "Python code to generate histogram")
 
-The resulting Histogram is generate from the code above. This complete python program is saved as _analyse-iris-generate-histogram.py_ Click on the link to view the code [_analyse-iris-generate-histogram.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-histogram.py)
+The resulting Histogram is generate from the code above. This complete python program is saved as _analyse-iris-generate-histogram.py_ Click on the link [_analyse-iris-generate-histogram.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-histogram.py) to view the code.
 
 ![Iris Dataset Histogram](Images/iris-histogram.JPG "Iris Dataset Histogram")
 
