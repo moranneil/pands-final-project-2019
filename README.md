@@ -56,7 +56,7 @@ The python program _analyse-iris.py_ variable values obtained in the previous se
 
 ![Python code to generate histogram](Images/iris-histogram-code-iPython.JPG "Python code to generate histogram")
 
-The resulting Histogram is generate from the code above. This complete python program is saved as _analyse-iris-generate-histogram.py_
+The resulting Histogram is generate from the code above. This complete python program is saved as _analyse-iris-generate-histogram.py_ TClick on the link to view the code [a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 ![Iris Dataset Histogram](Images/iris-histogram.JPG "Iris Dataset Histogram")
 
