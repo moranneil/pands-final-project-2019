@@ -118,5 +118,5 @@ Pandas: https://en.wikipedia.org/wiki/Pandas_(software). <br />
 Analysing the Iris Data set with Pandas: https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation <br />
 Histogram Plots: https://github.com/venky14/Machine-Learning-with-Iris-Dataset/blob/master/Machine%20Learning%20with%20Iris%20Dataset.ipynb <br />
 Boxplot: https://www.kaggle.com/mathewnik90/machinelearning-helloworld-with-iris-full-analysis/notebook <br />
-Scatter Plots: https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+Scatterplots: https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 
