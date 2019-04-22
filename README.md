@@ -66,6 +66,18 @@ The resulting Histogram is generate from the code above. This complete python pr
 
 Click on the link [_analyse-iris-generate-histogram.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-histogram.py) to view the code.
 
+The following lines were entered in iPython to generate a Boxplot of the Iris Dataset. The program analyse-iris.py was ran to ensure that the dataset variables were set. See iPython image below.
+
+![Python code to generate Boxplot](Images/iris-boxplot-code-iPython.JPG "Python code to generate Boxplot")
+
+The Boxplot of the Iris Dataset is given below.
+
+![Iris Dataset Boxplot](Images/iris-boxplot.JPG "Iris Dataset Boxplot]")
+
+The python program _analyse-iris-generate-boxplot.py_ can also be ran to populte the variables and generate the same resulting Boxplot. Click on the link [_analyse-iris-generate-boxplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-boxplot.py) to view the code.
+
+
+
 ## References
 
 Iris flower data set: https://en.wikipedia.org/wiki/Iris_flower_data_set.<br />
@@ -79,4 +91,5 @@ NumPy: https://en.wikipedia.org/wiki/NumPy.<br />
 Pandas: https://en.wikipedia.org/wiki/Pandas_(software). <br />
 Analysing the Iris Data set with Pandas: https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation <br />
 Histogram Plots: https://github.com/venky14/Machine-Learning-with-Iris-Dataset/blob/master/Machine%20Learning%20with%20Iris%20Dataset.ipynb <br />
+Boxplots: https://www.kaggle.com/mathewnik90/machinelearning-helloworld-with-iris-full-analysis/notebook <br />
 
