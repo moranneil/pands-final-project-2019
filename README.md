@@ -56,6 +56,8 @@ Click on the link [_analyse-iris.py_](https://github.com/moranneil/pands-final-p
 
 ## Data Visualisation
 
+### Histogram
+
 The python program _analyse-iris.py_ variable values obtained in the previous section, can be used to generate plots. The following lines were entered in iPython.
 
 ![Python code to generate histogram](Images/iris-histogram-code-iPython.JPG "Python code to generate histogram")
@@ -65,6 +67,8 @@ The resulting Histogram is generate from the code above. This complete python pr
 ![Iris Dataset Histogram](Images/iris-histogram.JPG "Iris Dataset Histogram")
 
 Click on the link [_analyse-iris-generate-histogram.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-histogram.py) to view the code.
+
+### Boxplot
 
 The following lines were entered in iPython to generate a Boxplot of the Iris Dataset. The program analyse-iris.py was ran to ensure that the dataset variables were set. See iPython image below.
 
@@ -76,8 +80,8 @@ The Boxplot of the Iris Dataset is given below.
 
 The python program _analyse-iris-generate-boxplot.py_ can also be ran to populate the variables and generate the same resulting Boxplot. Click on the link [_analyse-iris-generate-boxplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-boxplot.py) to view the code.
 
-
-The Iris Dataset can be plotted using Scatter plots. Here we plot two scatter plots for each of the three species of Iris flower for both Sepal and Petal width and length comparsions.
+### Scatterplots
+The Iris Dataset can be plotted using Scatterplots. Here we plot two scatter plots for each of the three species of Iris flower for both sepal and petal width and length comparsions.
 
 The iPython code for the Iris Sepal Scatterplot is given below. Like the other programs the same libraries are imported. The extra lines of code for the sepal Scatterplot are given below.
 
