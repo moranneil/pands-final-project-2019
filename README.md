@@ -74,8 +74,30 @@ The Boxplot of the Iris Dataset is given below.
 
 ![Iris Dataset Boxplot](Images/iris-boxplot.JPG "Iris Dataset Boxplot]")
 
-The python program _analyse-iris-generate-boxplot.py_ can also be ran to populte the variables and generate the same resulting Boxplot. Click on the link [_analyse-iris-generate-boxplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-boxplot.py) to view the code.
+The python program _analyse-iris-generate-boxplot.py_ can also be ran to populate the variables and generate the same resulting Boxplot. Click on the link [_analyse-iris-generate-boxplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-boxplot.py) to view the code.
 
+
+The Iris Dataset can be plotted using Scatter plots. Here we plot two scatter plots for each of the three species of Iris flower for both Sepal and Petal width and length comparsions.
+
+The iPython code for the Iris Sepal Scatterplot is given below. Like the other programs the same libraries are imported. The extra lines of code for the sepal Scatterplot are given below.
+
+![Iris Dataset Sepal Scatterplot code iPython](Images/iris-sepal-scatterplot-code-iPython.JPG "Iris Dataset Sepal Scatterplot code iPython]")
+
+The Sepal Scatterplot for the Iris Dataset is given below.
+
+![Iris Dataset Sepal Scatterplot](Images/iris-sepal-scatterplot.JPG "Iris Dataset Sepal Scatterplot]")
+
+Click on the link [_analyse-iris-generate-sepal-scatterplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-sepal-scatterplot.py) to view the code.
+
+The iPython code for the Iris Petal Scatterplot is given below. Like the other programs the same libraries are imported. The extra lines of code for the petal Scatterplot are given below.
+
+![Iris Dataset Petal Scatterplot code iPython](Images/iris-petal-scatterplot-code-iPython.JPG "Iris Dataset Petal Scatterplot code iPython]")
+
+The Petal Scatterplot for the Iris Dataset is given below.
+
+![Iris Dataset Petal Scatterplot](Images/iris-petal-scatterplot.JPG "Iris Dataset Petal Scatterplot]")
+
+Click on the link [_analyse-iris-generate-petal-scatterplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-petal-scatterplot.py) to view the code.
 
 
 ## References
@@ -91,5 +113,6 @@ NumPy: https://en.wikipedia.org/wiki/NumPy.<br />
 Pandas: https://en.wikipedia.org/wiki/Pandas_(software). <br />
 Analysing the Iris Data set with Pandas: https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation <br />
 Histogram Plots: https://github.com/venky14/Machine-Learning-with-Iris-Dataset/blob/master/Machine%20Learning%20with%20Iris%20Dataset.ipynb <br />
-Boxplots: https://www.kaggle.com/mathewnik90/machinelearning-helloworld-with-iris-full-analysis/notebook <br />
+Boxplot: https://www.kaggle.com/mathewnik90/machinelearning-helloworld-with-iris-full-analysis/notebook <br />
+Scatter Plots: https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 
