@@ -26,7 +26,7 @@ Matplotlib is a plotting library for the Python programming language and the num
 #### Pandas <br />
 Pandas is a software programming library written for data analysis and manipulation for the Python programming language. It offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license. Pandas is built on top of NumPy
 #### Seaborn <br />
-
+Seaborn is a graphic library built on top of Matplotlib. It gives a better graphical presentation on plots such examples include scatterplots and pairplots.
 
 
 ## Tools Used
@@ -104,7 +104,9 @@ The Petal Scatterplot for the Iris Dataset is given below.
 ![Iris Dataset Petal Scatterplot](Images/iris-petal-scatterplot.JPG "Iris Dataset Petal Scatterplot]")
 
 Click on the link [_analyse-iris-generate-petal-scatterplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-petal-scatterplot.py) to view the code.
-
+ 
+### Pairplots
+The Iris Dataset can be represented using a pairplot.  
 
 ## References
 
