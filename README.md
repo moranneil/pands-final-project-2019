@@ -27,6 +27,8 @@ Matplotlib is a plotting library for the Python programming language and the num
 Pandas is a software programming library written for data analysis and manipulation for the Python programming language. It offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license. Pandas is built on top of NumPy
 #### Seaborn <br />
 
+
+
 ## Tools Used
 
 The following tools were used to script, test and run the python programs.
@@ -115,8 +117,10 @@ Iris Data Set CSV: https://datahub.io/machine-learning/iris#resource-iris.<br />
 Machine Learning: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/.<br />
 NumPy: https://en.wikipedia.org/wiki/NumPy.<br />
 Pandas: https://en.wikipedia.org/wiki/Pandas_(software). <br />
+Seaborn: https://python-graph-gallery.com/seaborn/ <br />
 Analysing the Iris Data set with Pandas: https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation <br />
 Histogram Plots: https://github.com/venky14/Machine-Learning-with-Iris-Dataset/blob/master/Machine%20Learning%20with%20Iris%20Dataset.ipynb <br />
 Boxplot: https://www.kaggle.com/mathewnik90/machinelearning-helloworld-with-iris-full-analysis/notebook <br />
-Scatterplots: https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+Scatterplots: https://seaborn.pydata.org/generated/seaborn.scatterplot.html <br />
+Seaborn Plots: https://seaborn.pydata.org/generated/seaborn.pairplot.html <br />
 
