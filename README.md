@@ -108,7 +108,7 @@ Click on the link [_analyse-iris-generate-petal-scatterplot.py_](https://github.
 ### Pairplots
 The Iris Dataset can be represented using a pairplot. The plot uses the irisdataset variable to generate the scatter plot, the column 'Species' is used to separate out the data in to different colours from the default palette. See iPython code to generate the pairplot from the the irisdataset variable.
 
-![Iris Dataset Pairplot Code](Images/iris-pairplot-code-iPython.JPG "Iris Dataset Pairplot Code]")
+![Iris Dataset Pairplot Code](Images/iris-dataset-pairplot-code-iPython.JPG "Iris Dataset Pairplot Code]")
 
 The resulting Pairplot for the Iris Dataset is given below.
 
