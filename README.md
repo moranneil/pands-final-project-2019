@@ -129,6 +129,10 @@ The box plot grouped the data in to four categories, this gave a graphical repre
 
 A separate scatterplot for both petal and sepal measurements, the scatterplot sorted the data on the three different species and assigned a colour for each species, this gave a visualisation to compare the three species. The sentosa flower was easily identifiable on both the sepal and petal measurements. The versicolor and virginica flowers were closer in size to each other than the setosa, with a lot of overlap in the sepal measurements but a much smaller overlap even almost identifiably separate ranges with the petal measurements. 
 
+Finally the pairplot compared even more combinations of the four columns for data yielding 4 x 4 matrix of plots, the setosa again was a lot different from the versicolor and virginica flowers, when the versicolor and virginica resumed its slight overlap.
+
+From the various analysis techniques it is clear the simply finding the min or max and mean values can sometimes be not a clear represenation of the data as there can be multiple peaks within the data and this may skew the results, data visualiation offers a better representation of the data especially when it if filtered on a particular column in the data such as species of flower in this case.
+
 ## References
 
 Iris flower data set: https://en.wikipedia.org/wiki/Iris_flower_data_set.<br />
