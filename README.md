@@ -119,7 +119,9 @@ Click on the link [_analyse-iris-generate-pairplot.py_](https://github.com/moran
 
 ## Summary from Data Analysis
 
-In the first section the min, max, mean and standard devation values from the mean were calculated for each 
+In the first section the min, max, mean and standard devation values from the mean were calculated for the entire Dataset, summary statistics could also be given using various  this gave summary stats of the dataset. 
+
+To further analyse the data
 
 ## References
 
