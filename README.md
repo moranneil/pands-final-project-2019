@@ -119,9 +119,15 @@ Click on the link [_analyse-iris-generate-pairplot.py_](https://github.com/moran
 
 ## Summary from Data Analysis
 
-In the first section the min, max, mean and standard devation values from the mean were calculated for the entire Dataset, summary statistics could also be given using various  this gave summary stats of the dataset. 
+In the first section the min, max, mean and standard devation values from the mean were calculated for the entire Dataset, summary statistics could also be printed to the screen. 
 
-To further analyse the data
+To further analyse the data in this dataset, data visualisation techniques are used, this gives a visual representation of the data and when compared with the overall and summary statistics that the min, max & mean will give, data visualisation offers a different and often better representation of the data. 
+
+The histograms display a representation of the data using bars and different intervals in the data, like the summary stats the histogram took the dataset as a whole so there was no distinction between the values of each species of flower.
+
+The box plot grouped the data in to four categories, this gave a graphical representation of the min, max and mean values of the data in each of the four columns, sepal length and width and petal length and width, this helped compare the length of each of the four categories of measurement.
+
+A separate scatterplot for both petal and sepal measurements, the scatterplot sorted the data on the three different species and assigned a colour for each species, this gave a visualisation to compare the three species. The sentosa flower was easily identifiable on both the sepal and petal measurements. The versicolor and virginica flowers were closer in size to each other than the setosa, with a lot of overlap in the sepal measurements but a much smaller overlap even almost identifiably separate ranges with the petal measurements. 
 
 ## References
 
