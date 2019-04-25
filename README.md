@@ -26,6 +26,8 @@ Matplotlib is a plotting library for the Python programming language and the num
 #### Pandas <br />
 Pandas is a software programming library written for data analysis and manipulation for the Python programming language. It offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license. Pandas is built on top of NumPy
 #### Seaborn <br />
+Seaborn is a graphic library built on top of Matplotlib. It gives a better graphical presentation on plots such examples include scatterplots and pairplots.
+
 
 ## Tools Used
 
@@ -56,6 +58,8 @@ Click on the link [_analyse-iris.py_](https://github.com/moranneil/pands-final-p
 
 ## Data Visualisation
 
+### Histogram
+
 The python program _analyse-iris.py_ variable values obtained in the previous section, can be used to generate plots. The following lines were entered in iPython.
 
 ![Python code to generate histogram](Images/iris-histogram-code-iPython.JPG "Python code to generate histogram")
@@ -65,6 +69,8 @@ The resulting Histogram is generate from the code above. This complete python pr
 ![Iris Dataset Histogram](Images/iris-histogram.JPG "Iris Dataset Histogram")
 
 Click on the link [_analyse-iris-generate-histogram.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-histogram.py) to view the code.
+
+### Boxplot
 
 The following lines were entered in iPython to generate a Boxplot of the Iris Dataset. The program analyse-iris.py was ran to ensure that the dataset variables were set. See iPython image below.
 
@@ -76,8 +82,8 @@ The Boxplot of the Iris Dataset is given below.
 
 The python program _analyse-iris-generate-boxplot.py_ can also be ran to populate the variables and generate the same resulting Boxplot. Click on the link [_analyse-iris-generate-boxplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-boxplot.py) to view the code.
 
-
-The Iris Dataset can be plotted using Scatter plots. Here we plot two scatter plots for each of the three species of Iris flower for both Sepal and Petal width and length comparsions.
+### Scatterplots
+The Iris Dataset can be plotted using Scatterplots. Here we plot two scatter plots for each of the three species of Iris flower for both sepal and petal width and length comparsions.
 
 The iPython code for the Iris Sepal Scatterplot is given below. Like the other programs the same libraries are imported. The extra lines of code for the sepal Scatterplot are given below.
 
@@ -98,7 +104,9 @@ The Petal Scatterplot for the Iris Dataset is given below.
 ![Iris Dataset Petal Scatterplot](Images/iris-petal-scatterplot.JPG "Iris Dataset Petal Scatterplot]")
 
 Click on the link [_analyse-iris-generate-petal-scatterplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-petal-scatterplot.py) to view the code.
-
+ 
+### Pairplots
+The Iris Dataset can be represented using a pairplot.  
 
 ## References
 
@@ -111,8 +119,10 @@ Iris Data Set CSV: https://datahub.io/machine-learning/iris#resource-iris.<br />
 Machine Learning: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/.<br />
 NumPy: https://en.wikipedia.org/wiki/NumPy.<br />
 Pandas: https://en.wikipedia.org/wiki/Pandas_(software). <br />
+Seaborn: https://python-graph-gallery.com/seaborn/ <br />
 Analysing the Iris Data set with Pandas: https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation <br />
 Histogram Plots: https://github.com/venky14/Machine-Learning-with-Iris-Dataset/blob/master/Machine%20Learning%20with%20Iris%20Dataset.ipynb <br />
 Boxplot: https://www.kaggle.com/mathewnik90/machinelearning-helloworld-with-iris-full-analysis/notebook <br />
-Scatter Plots: https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+Scatterplots: https://seaborn.pydata.org/generated/seaborn.scatterplot.html <br />
+Seaborn Plots: https://seaborn.pydata.org/generated/seaborn.pairplot.html <br />
 
