@@ -117,6 +117,10 @@ The resulting Pairplot for the Iris Dataset is given below.
 
 Click on the link [_analyse-iris-generate-pairplot.py_](https://github.com/moranneil/pands-final-project-2019/blob/master/analyse-iris-generate-pairplot.py) to view the code to generate a Pairplot from the Iris Dataset
 
+## Summary from Data Analysis
+
+In the first section the min, max, mean and standard devation values from the mean were calculated for each 
+
 ## References
 
 Iris flower data set: https://en.wikipedia.org/wiki/Iris_flower_data_set.<br />
