@@ -1,5 +1,5 @@
 # Neil Moran 18/04/2019
-# Python script imports Iris Data set from csv file 
+# Python script imports Iris Dataset from csv file 
 # Generates Histogram once the data is imported from the csv file
 
 #Python librarys Numpy, Pandas and MatplotLib are imported
