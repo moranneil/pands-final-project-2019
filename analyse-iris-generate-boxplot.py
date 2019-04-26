@@ -15,7 +15,7 @@ irisdataset = pd.read_csv('iris-dataset.csv', delimiter=',', names=['Sepal Lengt
 
 #Generating Boxplot section
 
-#Seaborn default graphic enhancement are used, these display a enhanced plot compared to matplotlib
+#Seaborn default graphic enhancement is used, this displays a enhanced plot compared to matplotlib
 sns.set()
 #This command also generates a Boxplot for each colum with numerical values, Sepal Length, Sepal Width, Petal Length and Petal Width
 irisdataset.boxplot()
