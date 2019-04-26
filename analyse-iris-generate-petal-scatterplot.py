@@ -1,8 +1,8 @@
 # Neil Moran 22/04/2019
-# Python script analyse data using Pandas
-# 
+# Python script imports Iris Dataset from csv file 
+# Generates Petal Scatterplot once the data is imported from the csv file 
 
-#Python librarys Numpy, Pandas and MatplotLib are imported
+#Python librarys Numpy, Pandas, MatplotLib and Seaborn are imported
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
