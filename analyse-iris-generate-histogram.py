@@ -2,7 +2,7 @@
 # Python script imports Iris Dataset from csv file 
 # Generates Histogram once the data is imported from the csv file
 
-#Python librarys Numpy, Pandas and MatplotLib are imported
+#Python librarys Numpy, Pandas, MatplotLib and Seaborn are imported
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
