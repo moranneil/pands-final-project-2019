@@ -1,8 +1,8 @@
 # Neil Moran 18/04/2019
-# Python script analyse data using Pandas
-# 
+# Python script imports Iris Dataset from csv file 
+# Generates Boxplot once the data is imported from the csv file 
 
-#Python librarys Numpy, Pandas and MatplotLib are imported
+#Python librarys Numpy, Pandas MatplotLib and Seaborn are imported
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -17,7 +17,6 @@ irisdataset = pd.read_csv('iris-dataset.csv', delimiter=',', names=['Sepal Lengt
 
 #Seaborn default graphic enhancement are used, these display a enhanced plot compared to matplotlib
 sns.set()
-#irisdataset is used from the program analyse-iris.py
 #This command also generates a Boxplot for each colum with numerical values, Sepal Length, Sepal Width, Petal Length and Petal Width
 irisdataset.boxplot()
 #This command give the Boxplot a title
