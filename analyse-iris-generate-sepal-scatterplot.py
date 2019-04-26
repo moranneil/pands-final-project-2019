@@ -1,8 +1,8 @@
 # Neil Moran 22/04/2019
-# Python script analyse data using Pandas
-# 
+# Python script imports Iris Dataset from csv file 
+# Generates Sepal Scatterplot once the data is imported from the csv file 
 
-#Python librarys Numpy, Pandas and MatplotLib are imported
+#Python librarys Numpy, Pandas, MatplotLib and Seaborn are imported
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -15,7 +15,7 @@ irisdatasetscatter = pd.read_csv('iris-dataset.csv', delimiter=',', names=['Sepa
 
 #Generating Sepal Scatterplot section
 
-#Seaborn default graphic enhancement are used, these display a enhanced plot compared to matplotlib
+#Seaborn default graphic enhancement is used, this displays a enhanced plot compared to matplotlib
 sns.set()
 #This line assigns the x-axis to a column 'Sepal_Length', y-axis to the column 'Sepal_Length', grouped by the column by 'Species') 
 ax = sns.scatterplot(x=irisdatasetscatter.Sepal_Length, y=irisdatasetscatter.Sepal_Width, hue=irisdatasetscatter.Species, style=irisdatasetscatter.Species)
