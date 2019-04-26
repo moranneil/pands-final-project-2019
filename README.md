@@ -119,21 +119,23 @@ Click on the link [_analyse-iris-generate-pairplot.py_](https://github.com/moran
 
 ## Summary from Data Analysis
 
-In the first section the min, max, mean and standard devation values from the mean were calculated for the entire Dataset, summary statistics could also be printed to the screen. 
+In the first section the min, max, mean and standard devation values were calculated for the entire Dataset, these values were rounded to two decimal places and printed to the screen, The next python program prints summary statistics to the screen. 
 
-To further analyse the data in this dataset, data visualisation techniques are used, this gives a visual representation of the data and when compared with the overall and summary statistics that the min, max & mean will give, data visualisation offers a different and often better representation of the data. 
+To further analyse the data in this dataset, data visualisation techniques are used, this gives a visual representation of the dataset when compared with the overall and summary statistics that the min, max & mean will give, data visualisation offers a different and often better representation of the data. 
 
-The histograms display a representation of the data using bars and different intervals in the data, like the summary stats the histogram took the dataset as a whole so there was no distinction between the values of each species of flower.
+The histograms display a representation of the data using bars at different intervals in the data, like the summary stats the histogram took the dataset as a whole so there was no distinction between the values of each species of flower.
 
-The box plot grouped the data in to four categories, this gave a graphical representation of the min, max and mean values of the data in each of the four columns, sepal length and width and petal length and width, this helped compare the length of each of the four categories of measurement.
+The box plot grouped the data in to four categories, this gave a graphical representation of the min, max and mean values of the data in each of the four columns, sepal length and width and petal length and width, this helped to visually compare the length of each of the four categories of measurement.
 
-A separate scatterplot for both petal and sepal measurements, the scatterplot sorted the data on the three different species and assigned a colour for each species, this gave a visualisation to compare the three species. The sentosa flower was easily identifiable on both the sepal and petal measurements. The versicolor and virginica flowers were closer in size to each other than the setosa, with a lot of overlap in the sepal measurements but a much smaller overlap even almost identifiably separate ranges with the petal measurements. 
+A separate scatterplot for both petal and sepal measurements was created, the scatterplot sorted the data on the three different species and assigned a colour for each species, this gave a visualisation to compare the three species. The sentosa flower was easily identifiable on both the sepal and petal measurements. The versicolor and virginica flowers were closer in size to each other than the setosa, with a lot of overlap in the sepal measurements but a much smaller overlap in the petal measurements. 
 
-Finally the pairplot compared even more combinations of the four columns for data yielding 4 x 4 matrix of plots, the setosa again was a lot different from the versicolor and virginica flowers, when the versicolor and virginica resumed its slight overlap.
+Finally the pairplot compared even more combinations of the four columns for data yielding 4 x 4 matrix of plots, the setosa again was a lot different from the versicolor and virginica flowers, when the versicolor and virginica overlaped.
 
-From the various analysis techniques it is clear the simply finding the min or max and mean values can sometimes be not a clear represenation of the data as there can be multiple peaks within the data and this may skew the results, data visualiation offers a better representation of the data especially when it if filtered on a particular column in the data such as species of flower in this case.
+From the various analysis techniques it is clear that simply finding the min or max and mean values can sometimes be not a clear represenation of the data as there can be multiple peaks within a dataset, this may skew the results, data visualiation can offer a better representation of the data especially when it if filtered on a particular column in the data such as species of flower in this case. Data visualisation offers a clearer representation of more complex datasets.
 
 ## References
+
+The following references were used to obtain information on the Iris Dataset and to help develop the python programs in this repository.
 
 Iris flower data set: https://en.wikipedia.org/wiki/Iris_flower_data_set.<br />
 Sir Ronald Fisher: https://en.wikipedia.org/wiki/Ronald_Fisher.<br />
