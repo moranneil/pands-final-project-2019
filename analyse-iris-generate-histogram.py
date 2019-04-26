@@ -13,7 +13,7 @@ irisdataset = pd.read_csv('iris-dataset.csv', delimiter=',', names=['Sepal Lengt
 
 #Generating Histogram section
 
-#Seaborn default graphic enhancement are used, these display a enhanced plot compared to matplotlib
+#Seaborn default graphic enhancement is used, these display a enhanced plot compared to matplotlib
 sns.set()
 #irisdataset is used from the program analyse-iris.py, the edge line of the bins are red and they are 10 bins per plot
 #This command also generates a plot for each colum with numerical values, Sepal Length, Sepal Width, Petal Length and Petal Width
